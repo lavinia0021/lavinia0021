@@ -2,8 +2,8 @@
 
 * ⭐ Oi, meu nome é ***Lavinia***.
 * 📱  Meu e-mail de contato é lavinia.lissa.silva@escola.pr.gov.br
-* 📜 Estou aprendendo a programar JavaScript, Scratch e GitHub.
-* 🔍 Buscando conhecer o novo.
+* 📜 Estou aprendendo a programar ***JavaScript, Scratch e GitHub***.
+* 🔍 Buscando conhecer o ***novo***.
 * 😊 Sou gente boa!
 
  ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style-for0the-badge&logo=Scratch&logoColor=white)
